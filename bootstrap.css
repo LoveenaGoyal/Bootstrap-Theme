@@ -1,0 +1,16 @@
+.love{
+		position:sticky;
+		top:0;
+		z-index:1;
+	}
+#scrolldiv{
+		position:relative;
+		height:1000px;
+		overflow-y:scroll;
+	}
+#bg{
+		background-image:url("giftwall.jpeg");	
+	}
+.head{
+		font-family:"Times New Roman", Times, serif;
+	}
